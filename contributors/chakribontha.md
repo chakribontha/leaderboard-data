@@ -2,11 +2,9 @@
 name: Chakri
 title: Contributor
 github: chakribontha
-twitter: ""
-linkedin: ""
-slack: ""
-joining_date: ""
+twitter: "https://x.com/Chakri_10x"
+linkedin: "https://www.linkedin.com/in/bonthachakri/"
 role : contributor
 ---
 
-Still waiting for this
+
